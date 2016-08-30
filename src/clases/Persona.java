@@ -32,5 +32,8 @@ public class Persona {
     public String getPrimer_apellido() {
         return primer_apellido;
     }
+    public  void setPrimer_nombre(String primer_nombre){
+       this.primer_nombre = primer_nombre; 
+    }
     
 }
