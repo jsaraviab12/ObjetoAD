@@ -15,9 +15,9 @@ import javax.swing.JOptionPane;
 public class Test {
     public static void main(String[] args) {
        Persona p;
-       p = new Persona (98122212,"Jesús","Saravia");
+       
        
       
-        JOptionPane.showMessageDialog(null,"el nombre del objeto p es: "+ p.getPrimer_nombre());
+       
     }
 }
